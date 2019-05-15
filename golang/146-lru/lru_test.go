@@ -1,4 +1,4 @@
-package lru
+package _46_lru
 
 import (
 	"testing"
