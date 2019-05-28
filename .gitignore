@@ -20,4 +20,4 @@ vendor/
 .idea
 
 # leetcode-plugin
-golang/leetcode-plugin/
+leetcode/golang/leetcode-plugin/
